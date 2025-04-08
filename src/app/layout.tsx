@@ -15,19 +15,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Donald Amoke",
-  description: "A full-stack JavaScript/TypeScript dev",
+  title: "Mbah Chiemerie",
+  description: "A Front-End JavaScript/TypeScript dev",
   openGraph: {
-    title: "Donald Amoke - Full-Stack Developer",
+    title: "Mbah Chiemerie - Front-End Developer",
     description:
-      "A full-stack JavaScript/TypeScript dev that prioritize functionality and usability.",
+      "A Front-End JavaScript/TypeScript dev that prioritize functionality and usability.",
     images: [{ url: "/me.jpg" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Donald Amoke - Full-Stack Developer",
+    title: "Mbah Chiemerie - Front-End Developer",
     description:
-      "A full-stack JavaScript/TypeScript dev that prioritize functionality and usability.",
+      "A Front-End JavaScript/TypeScript dev that prioritize functionality and usability.",
     images: [{ url: "/me.jpg" }],
   },
 };
