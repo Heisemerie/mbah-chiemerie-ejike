@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Chesshub Online",
-      "description": "Online multiplayer chess game with real-time chat, tutorials, and AI opponents",
+      "name": "GameHub",
+      "description": "GameHub is a game discovery platform that lets users search over 350,000 games by platform, genre, release date, popularity, and rating, powered by the RAWG API.",
       "href": "https://game-hub-eta-topaz.vercel.app/",
       "image": "/projects/Gamehub.png",
       "tags": [
@@ -27,8 +27,8 @@
       ]
     },
     {
-      "name": "Zynkart",
-      "description": "All-in-one platform to build, manage, and scale your business online with powerful tools for inventory, shipping, and customer management and a dedicated store website.",
+      "name": "Cordial Chat",
+      "description": "Cordial Chat is a web app for conversing with Google's Gemini 1.5, supporting 15 RPM, 1,000,000 TPM, and 1,500 RPD, with multi-threaded chat and local conversation storage.",
       "href": "https://cordial-chat.vercel.app/",
       "image": "/projects/CordialChat.png",
       "tags": [
