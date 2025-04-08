@@ -2,20 +2,22 @@
   "skill": [
     "Javascript",
     "Typescript",
-    "Next JS",
-    "React Native",
-    "Expo",
-    "Node JS",
-    "Hono JS",
     "React",
+    "Next JS*",
     "Tailwind CSS",
-    "MongoDB",
-    "Prisma ORM",
-    "Drizzle ORM",
+    "Bootstrap",
+    "Chakra UI",
+    "Shadcn",
     "HTML",
     "CSS",
-    "PostgreSQL",
     "Git",
-    "ViteJS"
+    "ViteJS",
+    "Zustand",
+    "Redux Toolkit",
+    "Tanstack Query",
+    "React Router",
+    "MySQL",
+    "MongoDB",
+    "Prisma ORM*"
   ]
 }
