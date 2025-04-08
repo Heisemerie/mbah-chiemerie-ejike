@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mbah Chiemerie",
+  title: "Mbah Chiemerie Ejike",
   description: "A Front-End JavaScript/TypeScript dev",
   openGraph: {
     title: "Mbah Chiemerie - Front-End Developer",
