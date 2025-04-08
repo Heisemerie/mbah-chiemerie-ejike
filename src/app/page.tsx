@@ -10,35 +10,36 @@ import ContactForm from "@/components/ContactForm";
 import skillsData from "@/data/skills.json";
 
 export default function Home() {
-  const BIRTH_YEAR = 2003;
+  const BIRTH_YEAR = 2002;
   const LIMIT = 4;
   return (
     <article className="mt-8 flex flex-col gap-16 pb-16">
       <section className="flex flex-col items-start gap-8 md:flex-row-reverse md:items-center md:justify-between">
         <Image
           className="rounded-lg"
-          src="/me.jpg"
-          alt="Photo of Donald"
+          src="/me.png"
+          alt="Photo of Chiemerie"
           width={175}
           height={175}
           priority
         />
         <div className="flex flex-col">
-          <h1 className="title text-5xl">Hi I&apos;m Donald</h1>
+          <h1 className="title text-5xl">Hi I&apos;m Chiemerie</h1>
           <p className="mt-4 font-light text-lg">
             {/* Update my age */}
-            {new Date().getFullYear() - BIRTH_YEAR}
-            -year-old <span className="font-bold">full-stack</span> developer
-            from <span className="font-bold">Nigeria</span> 🇳🇬.
+            A {new Date().getFullYear() - BIRTH_YEAR}
+            -year-old <span className="font-bold">Front-End</span> developer
+            from <span className="font-bold">Nigeria</span>.
           </p>
           <p className="mt-2 font-light text-lg">
-            I&apos;m a <span className="font-bold">JavaScript/TypeScript</span>{" "}
-            dev that prioritize functionality and usability.
+            I prioritize building responsive, scalable web interfaces with React
+            and Typescript. Skilled in crafting clean maintainable UIs and
+            collaborating with teams to deliver high-performance solutions.
           </p>
           <div className="mt-4 flex items-end gap-1">
             <Badge variant="secondary" className="mb-6 animate-fade-in">
               <MapPinned className="h-3 w-3 mr-1" />
-              Abuja Nigeria
+              Enugu Nigeria
             </Badge>
           </div>
           <section className="mt-8 flex items-center gap-8">
