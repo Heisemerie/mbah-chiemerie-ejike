@@ -81,7 +81,7 @@ export default function ContactForm() {
                 rows={4}
                 placeholder="Leave feedback about the site, career opportunities or just to say hello etc."
                 autoComplete="Message"
-                className="resize-none"
+                className="resize-none text-white"
                 {...register("message")}
               />
 
