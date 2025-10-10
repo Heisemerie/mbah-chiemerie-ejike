@@ -25,12 +25,13 @@ export default function Home() {
         <div className="flex flex-col">
           <h1 className="title text-5xl">Hi I&apos;m Chiemerie</h1>
           <p className="mt-4 font-light text-lg">
-            A <span className="font-bold">Front-End</span> developer from{" "}
+            A <span className="font-bold">Full-stack</span> developer from{" "}
             <span className="font-bold">Nigeria</span>.
           </p>
           <p className="mt-2 font-light text-lg">
             I prioritize building responsive, scalable web interfaces with React
-            and Typescript. Skilled in crafting clean maintainable UIs and
+            and Typescript and server-side applications with Node.js and
+            Express.js. Skilled in crafting clean maintainable UI/APIs and
             collaborating with teams to deliver high-performance solutions.
           </p>
           <div className="mt-4 flex items-end gap-1">

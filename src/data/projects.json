@@ -51,6 +51,32 @@
           "icon": "globe"
         }
       ]
-    }    
+    },
+    {
+      "name": "Movienest API",
+      "description": "MovieNest API is a server-side application for managing movie rentals and returns. It features admin authentication, customer management, and movie-genre categorization, enabling secure and efﬁcient rental operation.",
+      "href": "https://movienest-api.vercel.app/",
+      "image": "/projects/Movienest.png",
+      "tags": [
+        "Node.js",
+        "Express.js",
+        "Mongoose",
+        "MongoDB",
+        "Winston",
+        "Jest"
+      ],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Heisemerie/movienest-api",
+          "icon": "github"
+        },
+        {
+          "name": "Website",
+          "href": "https://movienest-api.vercel.app/",
+          "icon": "globe"
+        }
+      ]
+    }
   ]
 }

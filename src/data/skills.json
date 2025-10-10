@@ -3,7 +3,7 @@
     "Javascript",
     "Typescript",
     "React",
-    "Next JS*",
+    "NextJS",
     "Tailwind CSS",
     "Bootstrap",
     "Chakra UI",
@@ -17,7 +17,11 @@
     "Tanstack Query",
     "React Router",
     "MySQL",
+    "Prisma ORM",
+    "Node.js",
+    "Express.js",
+    "Mongoose",
     "MongoDB",
-    "Prisma ORM*"
+    "Jest"
   ]
 }
