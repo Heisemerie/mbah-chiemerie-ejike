@@ -77,6 +77,25 @@
           "icon": "globe"
         }
       ]
+    },
+    {
+      "name": "Syncdesk",
+      "description": "SyncDesk is an internal issue-management tool designed to help teams create, assign, and track tasks from start to resolution. It streamlines workflow by keeping all issues organized in one place, giving users clear visibility into progress, deadlines, and responsibilities.",
+      "href": "https://syncdesk-silk.vercel.app/",
+      "image": "/projects/Syncdesk.png",
+      "tags": ["Next.js", "Radix UI", "Prisma", "MySQL"],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Heisemerie/syncdesk",
+          "icon": "github"
+        },
+        {
+          "name": "Website",
+          "href": "https://syncdesk-silk.vercel.app/",
+          "icon": "globe"
+        }
+      ]
     }
   ]
 }
