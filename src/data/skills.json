@@ -1,28 +1,28 @@
 {
   "skill": [
+    "HTML",
+    "CSS",
     "Javascript",
     "Typescript",
     "React",
-    "NextJS",
+    "Next.js",
     "Tailwind CSS",
     "Bootstrap",
     "Chakra UI",
     "Shadcn",
-    "HTML",
-    "CSS",
-    "Git",
-    "ViteJS",
+    "Vite",
     "Zustand",
     "Redux Toolkit",
     "Tanstack Query",
     "React Router",
+    "Node.js",
     "Prisma ORM",
     "PostgreSQL",
     "MySQL",
-    "Node.js",
     "Express.js",
     "Mongoose",
     "MongoDB",
-    "Jest"
+    "Jest",
+    "Git"
   ]
 }
